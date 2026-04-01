@@ -1,0 +1,17 @@
+Info: Reading netlist file '/Users/softage/Desktop/RetroPad_PCB/output/final.net'.
+
+Info: Using tstamps (unique IDs) to match symbols and footprints.
+
+Info: Processing symbol 'R1:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'D1:LED_SMD:LED_0805_2012Metric'.
+Info: Processing symbol 'R3:Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical'.
+Info: Processing symbol 'C1:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'SW1:Button_Switch_SMD:SW_SPST_TL3342'.
+Warning: No net found for component R3 pad 5 (no pin 5 in symbol).
+Warning: No net found for component R3 pad 3 (no pin 3 in symbol).
+Warning: No net found for component R3 pad 4 (no pin 4 in symbol).
+Warning: No net found for component R3 pad 6 (no pin 6 in symbol).
+
+
+Info: Total warnings: 4, errors: 0.
